@@ -1,0 +1,201 @@
+psp_reference,merchant_account,transaction_date,invoice_number,dealership_name,mid,category,subcategory,payment_method,entry_mode,payment_product,amount,gross_amount,commission,net_amount,currency,payment_currency,settlement_currency,exchange_rate,status
+PSP1676399901,AutoNationUS,2025-06-22,PRe-1003-9624,AutoNation Mercedes Dallas,MID1003,Parts,Revolution Parts,Card,POS,amex,7629.54,7629.54,2.98,7626.56,USD,USD,USD,1.0,Pending
+PSP8437136158,AutoNationUS,2025-06-28,SNo-1005-3393,AutoNation BMW Seattle,MID1005,Services,Non-Warranty,Card,MOTO,visa,4282.27,4282.27,1.21,4281.06,USD,USD,USD,1.0,Refunded
+PSP7382558308,AutoNationUS,2025-06-21,SNo-1001-8081,AutoNation Ford Miami,MID1001,Services,Non-Warranty,Card,POS,amex,499.73,499.73,1.34,498.39,USD,USD,USD,1.0,Pending
+PSP3160096047,AutoNationUS,2025-06-30,SWa-1003-4790,AutoNation Mercedes Dallas,MID1003,Services,Warranty,Card,POS,mc,8978.21,8978.21,1.24,8976.97,USD,USD,USD,1.0,Pending
+PSP7420954817,AutoNationUS,2025-06-17,SUs-1004-4149,AutoNation Honda Phoenix,MID1004,Sales,Used Cars,Card,MOTO,discover,5966.7,5966.7,2.53,5964.17,USD,USD,USD,1.0,Refunded
+PSP7951094388,AutoNationUS,2025-06-06,SNo-1003-8345,AutoNation Mercedes Dallas,MID1003,Services,Non-Warranty,Card,MOTO,mc,8629.28,8629.28,2.93,8626.35,USD,USD,USD,1.0,Settled
+PSP2334157251,AutoNationUS,2025-06-23,PSi-1005-4055,AutoNation BMW Seattle,MID1005,Parts,Simple Parts,Card,POS,discover,6123.81,6123.81,2.78,6121.03,USD,USD,USD,1.0,Pending
+PSP8148814725,AutoNationUS,2025-06-07,SNe-1002-4104,AutoNation Toyota Austin,MID1002,Sales,New Cars,Card,MOTO,discover,6776.37,6776.37,2.49,6773.88,USD,USD,USD,1.0,Refunded
+PSP7903963327,AutoNationUS,2025-06-14,PRe-1004-4772,AutoNation Honda Phoenix,MID1004,Parts,Revolution Parts,Card,MOTO,discover,9035.65,9035.65,2.72,9032.93,USD,USD,USD,1.0,Refunded
+PSP9279242854,AutoNationUS,2025-06-21,SNo-1001-6909,AutoNation Ford Miami,MID1001,Services,Non-Warranty,Card,POS,mc,6417.73,6417.73,2.54,6415.19,USD,USD,USD,1.0,Refunded
+PSP8764304186,AutoNationUS,2025-06-09,SNe-1004-4842,AutoNation Honda Phoenix,MID1004,Sales,New Cars,Card,POS,visa,3737.75,3737.75,1.01,3736.74,USD,USD,USD,1.0,Settled
+PSP9378910404,AutoNationUS,2025-06-22,SNo-1002-8046,AutoNation Toyota Austin,MID1002,Services,Non-Warranty,Card,MOTO,visa,1341.16,1341.16,1.79,1339.37,USD,USD,USD,1.0,Settled
+PSP7126488646,AutoNationUS,2025-06-29,SNo-1003-7400,AutoNation Mercedes Dallas,MID1003,Services,Non-Warranty,Card,POS,mc,5006.52,5006.52,2.56,5003.96,USD,USD,USD,1.0,Pending
+PSP9017703671,AutoNationUS,2025-06-14,SNo-1003-3422,AutoNation Mercedes Dallas,MID1003,Services,Non-Warranty,Card,POS,mc,595.98,595.98,2.62,593.36,USD,USD,USD,1.0,Settled
+PSP9417249420,AutoNationUS,2025-06-25,PRe-1004-6235,AutoNation Honda Phoenix,MID1004,Parts,Revolution Parts,Card,POS,amex,7206.93,7206.93,2.41,7204.52,USD,USD,USD,1.0,Refunded
+PSP9696530677,AutoNationUS,2025-06-25,SNe-1003-1854,AutoNation Mercedes Dallas,MID1003,Sales,New Cars,Card,POS,discover,8515.66,8515.66,2.4,8513.26,USD,USD,USD,1.0,Pending
+PSP5980264025,AutoNationUS,2025-06-09,SWa-1004-7957,AutoNation Honda Phoenix,MID1004,Services,Warranty,Card,POS,visa,8646.12,8646.12,3.21,8642.91,USD,USD,USD,1.0,Pending
+PSP3208626655,AutoNationUS,2025-06-17,PRe-1001-4339,AutoNation Ford Miami,MID1001,Parts,Revolution Parts,Card,POS,visa,4768.47,4768.47,2.45,4766.02,USD,USD,USD,1.0,Pending
+PSP2455918924,AutoNationUS,2025-07-03,PSi-1003-8935,AutoNation Mercedes Dallas,MID1003,Parts,Simple Parts,Card,POS,amex,5036.3,5036.3,3.01,5033.29,USD,USD,USD,1.0,Pending
+PSP5162779035,AutoNationUS,2025-06-21,SNo-1005-3394,AutoNation BMW Seattle,MID1005,Services,Non-Warranty,Card,MOTO,mc,5726.06,5726.06,1.72,5724.34,USD,USD,USD,1.0,Settled
+PSP3163907140,AutoNationUS,2025-06-11,PRe-1001-8251,AutoNation Ford Miami,MID1001,Parts,Revolution Parts,Card,MOTO,discover,6114.91,6114.91,2.0,6112.91,USD,USD,USD,1.0,Pending
+PSP3625460555,AutoNationUS,2025-06-25,SNe-1003-2124,AutoNation Mercedes Dallas,MID1003,Sales,New Cars,Card,POS,amex,8175.61,8175.61,2.75,8172.86,USD,USD,USD,1.0,Refunded
+PSP5977335999,AutoNationUS,2025-06-08,PSi-1005-5573,AutoNation BMW Seattle,MID1005,Parts,Simple Parts,Card,POS,mc,9552.47,9552.47,2.96,9549.51,USD,USD,USD,1.0,Pending
+PSP5618382415,AutoNationUS,2025-07-02,SWa-1003-6347,AutoNation Mercedes Dallas,MID1003,Services,Warranty,Card,POS,discover,6210.45,6210.45,1.61,6208.84,USD,USD,USD,1.0,Settled
+PSP7588503079,AutoNationUS,2025-06-15,SNo-1005-7496,AutoNation BMW Seattle,MID1005,Services,Non-Warranty,Card,MOTO,amex,2430.21,2430.21,1.08,2429.13,USD,USD,USD,1.0,Refunded
+PSP1381041040,AutoNationUS,2025-06-17,SWa-1004-2811,AutoNation Honda Phoenix,MID1004,Services,Warranty,Card,MOTO,mc,6922.83,6922.83,2.95,6919.88,USD,USD,USD,1.0,Pending
+PSP7737968843,AutoNationUS,2025-06-09,SNo-1005-3333,AutoNation BMW Seattle,MID1005,Services,Non-Warranty,Card,MOTO,amex,9311.53,9311.53,2.47,9309.06,USD,USD,USD,1.0,Settled
+PSP1613658842,AutoNationUS,2025-06-17,SWa-1004-4108,AutoNation Honda Phoenix,MID1004,Services,Warranty,Card,MOTO,visa,5730.89,5730.89,1.99,5728.9,USD,USD,USD,1.0,Pending
+PSP3186796178,AutoNationUS,2025-06-16,SNe-1004-5653,AutoNation Honda Phoenix,MID1004,Sales,New Cars,Card,POS,discover,8753.5,8753.5,3.08,8750.42,USD,USD,USD,1.0,Settled
+PSP1823026356,AutoNationUS,2025-06-18,SWa-1004-5750,AutoNation Honda Phoenix,MID1004,Services,Warranty,Card,MOTO,mc,8738.26,8738.26,2.56,8735.7,USD,USD,USD,1.0,Refunded
+PSP9259880400,AutoNationUS,2025-06-26,PSi-1004-8133,AutoNation Honda Phoenix,MID1004,Parts,Simple Parts,Card,MOTO,amex,4043.63,4043.63,2.96,4040.67,USD,USD,USD,1.0,Refunded
+PSP9405431462,AutoNationUS,2025-06-10,SNe-1003-1972,AutoNation Mercedes Dallas,MID1003,Sales,New Cars,Card,POS,amex,880.46,880.46,3.0,877.46,USD,USD,USD,1.0,Refunded
+PSP8006170466,AutoNationUS,2025-06-10,PRe-1003-9000,AutoNation Mercedes Dallas,MID1003,Parts,Revolution Parts,Card,POS,visa,1070.39,1070.39,2.83,1067.56,USD,USD,USD,1.0,Refunded
+PSP6034321849,AutoNationUS,2025-06-24,SWa-1005-4953,AutoNation BMW Seattle,MID1005,Services,Warranty,Card,MOTO,discover,3892.26,3892.26,2.05,3890.21,USD,USD,USD,1.0,Settled
+PSP3914558107,AutoNationUS,2025-06-04,PSi-1005-6544,AutoNation BMW Seattle,MID1005,Parts,Simple Parts,Card,POS,amex,243.98,243.98,2.84,241.14,USD,USD,USD,1.0,Settled
+PSP6009547490,AutoNationUS,2025-06-13,SWa-1005-8676,AutoNation BMW Seattle,MID1005,Services,Warranty,Card,MOTO,discover,7331.75,7331.75,2.65,7329.1,USD,USD,USD,1.0,Settled
+PSP1722189826,AutoNationUS,2025-06-24,PSi-1004-2875,AutoNation Honda Phoenix,MID1004,Parts,Simple Parts,Card,POS,mc,2441.83,2441.83,1.5,2440.33,USD,USD,USD,1.0,Settled
+PSP9288231366,AutoNationUS,2025-06-15,PSi-1005-4143,AutoNation BMW Seattle,MID1005,Parts,Simple Parts,Card,MOTO,discover,4527.08,4527.08,2.2,4524.88,USD,USD,USD,1.0,Pending
+PSP6590991582,AutoNationUS,2025-07-01,SNo-1002-1269,AutoNation Toyota Austin,MID1002,Services,Non-Warranty,Card,MOTO,discover,982.57,982.57,2.3,980.27,USD,USD,USD,1.0,Refunded
+PSP7209499152,AutoNationUS,2025-06-09,PRe-1001-1819,AutoNation Ford Miami,MID1001,Parts,Revolution Parts,Card,POS,discover,5737.92,5737.92,1.84,5736.08,USD,USD,USD,1.0,Refunded
+PSP3972653718,AutoNationUS,2025-06-16,PRe-1005-7399,AutoNation BMW Seattle,MID1005,Parts,Revolution Parts,Card,POS,visa,3214.07,3214.07,1.51,3212.56,USD,USD,USD,1.0,Refunded
+PSP8297167021,AutoNationUS,2025-06-11,PSi-1003-8102,AutoNation Mercedes Dallas,MID1003,Parts,Simple Parts,Card,POS,visa,4322.35,4322.35,2.32,4320.03,USD,USD,USD,1.0,Refunded
+PSP1246145328,AutoNationUS,2025-06-08,SWa-1005-4793,AutoNation BMW Seattle,MID1005,Services,Warranty,Card,POS,mc,7960.96,7960.96,2.17,7958.79,USD,USD,USD,1.0,Pending
+PSP8222257999,AutoNationUS,2025-06-20,PRe-1005-1177,AutoNation BMW Seattle,MID1005,Parts,Revolution Parts,Card,POS,discover,2227.33,2227.33,3.33,2224.0,USD,USD,USD,1.0,Pending
+PSP9075645732,AutoNationUS,2025-06-23,PSi-1003-6401,AutoNation Mercedes Dallas,MID1003,Parts,Simple Parts,Card,MOTO,amex,4078.19,4078.19,2.83,4075.36,USD,USD,USD,1.0,Pending
+PSP9394443697,AutoNationUS,2025-06-27,SUs-1005-1447,AutoNation BMW Seattle,MID1005,Sales,Used Cars,Card,MOTO,discover,3782.1,3782.1,2.67,3779.43,USD,USD,USD,1.0,Settled
+PSP7883203109,AutoNationUS,2025-06-23,SNo-1003-2953,AutoNation Mercedes Dallas,MID1003,Services,Non-Warranty,Card,MOTO,mc,1755.71,1755.71,2.88,1752.83,USD,USD,USD,1.0,Refunded
+PSP3383463876,AutoNationUS,2025-06-11,PRe-1001-3513,AutoNation Ford Miami,MID1001,Parts,Revolution Parts,Card,MOTO,mc,8408.47,8408.47,2.87,8405.6,USD,USD,USD,1.0,Pending
+PSP2281206355,AutoNationUS,2025-06-12,SUs-1002-9672,AutoNation Toyota Austin,MID1002,Sales,Used Cars,Card,POS,amex,7416.5,7416.5,1.91,7414.59,USD,USD,USD,1.0,Pending
+PSP4797344730,AutoNationUS,2025-06-08,SUs-1005-5002,AutoNation BMW Seattle,MID1005,Sales,Used Cars,Card,MOTO,discover,1617.12,1617.12,2.6,1614.52,USD,USD,USD,1.0,Settled
+PSP6006407511,AutoNationUS,2025-06-12,SUs-1001-1295,AutoNation Ford Miami,MID1001,Sales,Used Cars,Card,POS,visa,2805.47,2805.47,2.14,2803.33,USD,USD,USD,1.0,Refunded
+PSP7408913856,AutoNationUS,2025-06-06,SWa-1005-9376,AutoNation BMW Seattle,MID1005,Services,Warranty,Card,POS,mc,5473.67,5473.67,2.2,5471.47,USD,USD,USD,1.0,Pending
+PSP5448674295,AutoNationUS,2025-07-04,SUs-1002-5612,AutoNation Toyota Austin,MID1002,Sales,Used Cars,Card,POS,mc,6985.72,6985.72,2.8,6982.92,USD,USD,USD,1.0,Pending
+PSP8589903834,AutoNationUS,2025-06-20,SNo-1005-7353,AutoNation BMW Seattle,MID1005,Services,Non-Warranty,Card,MOTO,discover,2312.48,2312.48,1.77,2310.71,USD,USD,USD,1.0,Refunded
+PSP2619749279,AutoNationUS,2025-06-21,SWa-1001-7100,AutoNation Ford Miami,MID1001,Services,Warranty,Card,POS,amex,175.54,175.54,2.52,173.02,USD,USD,USD,1.0,Pending
+PSP3080216853,AutoNationUS,2025-06-04,SNe-1005-3104,AutoNation BMW Seattle,MID1005,Sales,New Cars,Card,POS,mc,4841.44,4841.44,2.17,4839.27,USD,USD,USD,1.0,Refunded
+PSP6840671776,AutoNationUS,2025-06-28,SNe-1001-6719,AutoNation Ford Miami,MID1001,Sales,New Cars,Card,POS,visa,2431.02,2431.02,2.03,2428.99,USD,USD,USD,1.0,Pending
+PSP6832539561,AutoNationUS,2025-07-01,SNe-1002-7105,AutoNation Toyota Austin,MID1002,Sales,New Cars,Card,POS,discover,3908.51,3908.51,2.03,3906.48,USD,USD,USD,1.0,Settled
+PSP3930129043,AutoNationUS,2025-06-13,SUs-1005-1421,AutoNation BMW Seattle,MID1005,Sales,Used Cars,Card,MOTO,mc,2443.17,2443.17,1.9,2441.27,USD,USD,USD,1.0,Refunded
+PSP7780666636,AutoNationUS,2025-06-08,PRe-1001-5697,AutoNation Ford Miami,MID1001,Parts,Revolution Parts,Card,MOTO,amex,5410.05,5410.05,1.39,5408.66,USD,USD,USD,1.0,Settled
+PSP9125683416,AutoNationUS,2025-06-05,SNo-1001-9267,AutoNation Ford Miami,MID1001,Services,Non-Warranty,Card,POS,discover,7217.06,7217.06,2.97,7214.09,USD,USD,USD,1.0,Pending
+PSP7853665378,AutoNationUS,2025-07-03,PRe-1005-1801,AutoNation BMW Seattle,MID1005,Parts,Revolution Parts,Card,MOTO,visa,1414.28,1414.28,2.25,1412.03,USD,USD,USD,1.0,Settled
+PSP6723644665,AutoNationUS,2025-06-14,PSi-1003-8020,AutoNation Mercedes Dallas,MID1003,Parts,Simple Parts,Card,POS,amex,8861.98,8861.98,2.56,8859.42,USD,USD,USD,1.0,Refunded
+PSP8141923813,AutoNationUS,2025-06-17,PRe-1005-1926,AutoNation BMW Seattle,MID1005,Parts,Revolution Parts,Card,POS,amex,3311.53,3311.53,2.18,3309.35,USD,USD,USD,1.0,Settled
+PSP6670893950,AutoNationUS,2025-06-16,SWa-1003-8314,AutoNation Mercedes Dallas,MID1003,Services,Warranty,Card,MOTO,visa,9844.48,9844.48,2.25,9842.23,USD,USD,USD,1.0,Pending
+PSP6347129576,AutoNationUS,2025-06-13,SNe-1005-4362,AutoNation BMW Seattle,MID1005,Sales,New Cars,Card,POS,mc,9192.49,9192.49,3.1,9189.39,USD,USD,USD,1.0,Refunded
+PSP9501414434,AutoNationUS,2025-06-18,PSi-1004-8707,AutoNation Honda Phoenix,MID1004,Parts,Simple Parts,Card,MOTO,mc,5585.86,5585.86,1.28,5584.58,USD,USD,USD,1.0,Refunded
+PSP9504192378,AutoNationUS,2025-06-06,PRe-1001-6618,AutoNation Ford Miami,MID1001,Parts,Revolution Parts,Card,POS,mc,4742.52,4742.52,2.98,4739.54,USD,USD,USD,1.0,Settled
+PSP7303417491,AutoNationUS,2025-07-03,PRe-1003-5200,AutoNation Mercedes Dallas,MID1003,Parts,Revolution Parts,Card,POS,mc,1367.55,1367.55,2.72,1364.83,USD,USD,USD,1.0,Refunded
+PSP4337007846,AutoNationUS,2025-06-24,SWa-1002-2228,AutoNation Toyota Austin,MID1002,Services,Warranty,Card,MOTO,mc,5635.42,5635.42,3.17,5632.25,USD,USD,USD,1.0,Settled
+PSP1307038839,AutoNationUS,2025-06-07,SNe-1004-8076,AutoNation Honda Phoenix,MID1004,Sales,New Cars,Card,POS,amex,4864.34,4864.34,1.6,4862.74,USD,USD,USD,1.0,Pending
+PSP5158532352,AutoNationUS,2025-06-11,SNo-1004-8205,AutoNation Honda Phoenix,MID1004,Services,Non-Warranty,Card,POS,amex,5985.17,5985.17,3.34,5981.83,USD,USD,USD,1.0,Pending
+PSP8541246747,AutoNationUS,2025-07-04,PRe-1001-7162,AutoNation Ford Miami,MID1001,Parts,Revolution Parts,Card,POS,amex,9956.03,9956.03,1.77,9954.26,USD,USD,USD,1.0,Pending
+PSP5238052703,AutoNationUS,2025-06-06,SNo-1001-4069,AutoNation Ford Miami,MID1001,Services,Non-Warranty,Card,MOTO,visa,9225.74,9225.74,2.13,9223.61,USD,USD,USD,1.0,Settled
+PSP1793982286,AutoNationUS,2025-07-01,SNe-1003-4064,AutoNation Mercedes Dallas,MID1003,Sales,New Cars,Card,POS,amex,1499.56,1499.56,3.2,1496.36,USD,USD,USD,1.0,Pending
+PSP7607694095,AutoNationUS,2025-06-10,SNe-1004-5563,AutoNation Honda Phoenix,MID1004,Sales,New Cars,Card,MOTO,mc,1846.44,1846.44,3.17,1843.27,USD,USD,USD,1.0,Settled
+PSP5309503330,AutoNationUS,2025-06-16,SNe-1005-7947,AutoNation BMW Seattle,MID1005,Sales,New Cars,Card,MOTO,visa,6981.4,6981.4,2.1,6979.3,USD,USD,USD,1.0,Pending
+PSP3074779514,AutoNationUS,2025-06-07,PRe-1001-4662,AutoNation Ford Miami,MID1001,Parts,Revolution Parts,Card,POS,mc,6502.3,6502.3,2.29,6500.01,USD,USD,USD,1.0,Refunded
+PSP5230298171,AutoNationUS,2025-06-27,SWa-1003-9089,AutoNation Mercedes Dallas,MID1003,Services,Warranty,Card,MOTO,discover,5466.76,5466.76,2.02,5464.74,USD,USD,USD,1.0,Settled
+PSP7726900632,AutoNationUS,2025-06-07,SNo-1001-6823,AutoNation Ford Miami,MID1001,Services,Non-Warranty,Card,MOTO,mc,2280.83,2280.83,1.3,2279.53,USD,USD,USD,1.0,Settled
+PSP3132885943,AutoNationUS,2025-06-19,PRe-1003-7661,AutoNation Mercedes Dallas,MID1003,Parts,Revolution Parts,Card,MOTO,discover,4656.38,4656.38,2.29,4654.09,USD,USD,USD,1.0,Refunded
+PSP5387544473,AutoNationUS,2025-06-18,SUs-1005-7473,AutoNation BMW Seattle,MID1005,Sales,Used Cars,Card,MOTO,visa,9975.53,9975.53,2.29,9973.24,USD,USD,USD,1.0,Refunded
+PSP1745672169,AutoNationUS,2025-06-15,SNo-1001-8009,AutoNation Ford Miami,MID1001,Services,Non-Warranty,Card,MOTO,discover,6270.76,6270.76,2.18,6268.58,USD,USD,USD,1.0,Pending
+PSP7336132063,AutoNationUS,2025-06-05,SUs-1002-2657,AutoNation Toyota Austin,MID1002,Sales,Used Cars,Card,MOTO,mc,2645.52,2645.52,2.87,2642.65,USD,USD,USD,1.0,Pending
+PSP9178108557,AutoNationUS,2025-06-23,SUs-1004-6153,AutoNation Honda Phoenix,MID1004,Sales,Used Cars,Card,POS,mc,9380.44,9380.44,2.72,9377.72,USD,USD,USD,1.0,Settled
+PSP8560651298,AutoNationUS,2025-06-27,SWa-1001-2081,AutoNation Ford Miami,MID1001,Services,Warranty,Card,POS,discover,2229.12,2229.12,2.02,2227.1,USD,USD,USD,1.0,Settled
+PSP3387063556,AutoNationUS,2025-06-28,SWa-1004-4459,AutoNation Honda Phoenix,MID1004,Services,Warranty,Card,POS,discover,6540.03,6540.03,1.98,6538.05,USD,USD,USD,1.0,Refunded
+PSP1903966775,AutoNationUS,2025-06-16,SNe-1002-2997,AutoNation Toyota Austin,MID1002,Sales,New Cars,Card,POS,visa,6294.66,6294.66,2.28,6292.38,USD,USD,USD,1.0,Refunded
+PSP5434226328,AutoNationUS,2025-06-22,PSi-1001-3897,AutoNation Ford Miami,MID1001,Parts,Simple Parts,Card,POS,amex,3981.1,3981.1,1.05,3980.05,USD,USD,USD,1.0,Refunded
+PSP7811214515,AutoNationUS,2025-06-26,SNe-1002-9863,AutoNation Toyota Austin,MID1002,Sales,New Cars,Card,MOTO,amex,2462.16,2462.16,2.16,2460.0,USD,USD,USD,1.0,Pending
+PSP3745754822,AutoNationUS,2025-06-10,SNe-1002-1387,AutoNation Toyota Austin,MID1002,Sales,New Cars,Card,POS,visa,8004.16,8004.16,3.03,8001.13,USD,USD,USD,1.0,Pending
+PSP9028574490,AutoNationUS,2025-06-04,SNe-1001-8938,AutoNation Ford Miami,MID1001,Sales,New Cars,Card,MOTO,mc,2774.24,2774.24,1.56,2772.68,USD,USD,USD,1.0,Refunded
+PSP6661039176,AutoNationUS,2025-07-02,SWa-1005-2904,AutoNation BMW Seattle,MID1005,Services,Warranty,Card,POS,discover,5826.73,5826.73,1.33,5825.4,USD,USD,USD,1.0,Pending
+PSP7924591116,AutoNationUS,2025-06-16,PRe-1001-2200,AutoNation Ford Miami,MID1001,Parts,Revolution Parts,Card,POS,mc,9914.14,9914.14,1.89,9912.25,USD,USD,USD,1.0,Settled
+PSP4574595391,AutoNationUS,2025-07-02,PRe-1004-4148,AutoNation Honda Phoenix,MID1004,Parts,Revolution Parts,Card,POS,amex,672.11,672.11,1.63,670.48,USD,USD,USD,1.0,Pending
+PSP1128770049,AutoNationUS,2025-06-07,PRe-1004-6368,AutoNation Honda Phoenix,MID1004,Parts,Revolution Parts,Card,POS,visa,2056.55,2056.55,3.36,2053.19,USD,USD,USD,1.0,Settled
+PSP6430645806,AutoNationUS,2025-06-24,PSi-1005-8083,AutoNation BMW Seattle,MID1005,Parts,Simple Parts,Card,POS,amex,8955.62,8955.62,1.22,8954.4,USD,USD,USD,1.0,Pending
+PSP2209567590,AutoNationUS,2025-06-17,PRe-1003-3995,AutoNation Mercedes Dallas,MID1003,Parts,Revolution Parts,Card,POS,visa,2438.89,2438.89,2.92,2435.97,USD,USD,USD,1.0,Settled
+PSP2330243127,AutoNationUS,2025-06-12,PSi-1001-2119,AutoNation Ford Miami,MID1001,Parts,Simple Parts,Card,POS,amex,2270.54,2270.54,1.18,2269.36,USD,USD,USD,1.0,Refunded
+PSP1280199154,AutoNationUS,2025-06-07,SWa-1003-8135,AutoNation Mercedes Dallas,MID1003,Services,Warranty,Card,MOTO,amex,1721.86,1721.86,3.4,1718.46,USD,USD,USD,1.0,Pending
+PSP7114960651,AutoNationUS,2025-06-24,SWa-1005-8792,AutoNation BMW Seattle,MID1005,Services,Warranty,Card,POS,discover,8836.75,8836.75,1.84,8834.91,USD,USD,USD,1.0,Settled
+PSP4159719778,AutoNationUS,2025-07-02,PRe-1003-8992,AutoNation Mercedes Dallas,MID1003,Parts,Revolution Parts,Card,MOTO,discover,8553.18,8553.18,1.01,8552.17,USD,USD,USD,1.0,Settled
+PSP9602595716,AutoNationUS,2025-06-19,SNo-1001-3583,AutoNation Ford Miami,MID1001,Services,Non-Warranty,Card,MOTO,visa,748.49,748.49,2.0,746.49,USD,USD,USD,1.0,Refunded
+PSP7166644555,AutoNationUS,2025-06-14,SUs-1002-3077,AutoNation Toyota Austin,MID1002,Sales,Used Cars,Card,MOTO,discover,1557.06,1557.06,3.43,1553.63,USD,USD,USD,1.0,Settled
+PSP9126439095,AutoNationUS,2025-06-05,SWa-1003-2797,AutoNation Mercedes Dallas,MID1003,Services,Warranty,Card,POS,amex,7236.97,7236.97,2.84,7234.13,USD,USD,USD,1.0,Settled
+PSP9662060326,AutoNationUS,2025-06-29,SNe-1002-6357,AutoNation Toyota Austin,MID1002,Sales,New Cars,Card,MOTO,amex,3805.7,3805.7,1.99,3803.71,USD,USD,USD,1.0,Refunded
+PSP3366228208,AutoNationUS,2025-06-26,SWa-1002-5536,AutoNation Toyota Austin,MID1002,Services,Warranty,Card,POS,discover,1362.57,1362.57,2.95,1359.62,USD,USD,USD,1.0,Settled
+PSP2343360638,AutoNationUS,2025-06-25,SNo-1005-4466,AutoNation BMW Seattle,MID1005,Services,Non-Warranty,Card,MOTO,amex,6405.41,6405.41,1.19,6404.22,USD,USD,USD,1.0,Settled
+PSP5609371483,AutoNationUS,2025-06-16,PRe-1002-1411,AutoNation Toyota Austin,MID1002,Parts,Revolution Parts,Card,MOTO,mc,7198.88,7198.88,2.43,7196.45,USD,USD,USD,1.0,Refunded
+PSP3371506193,AutoNationUS,2025-06-24,SWa-1003-4472,AutoNation Mercedes Dallas,MID1003,Services,Warranty,Card,POS,visa,8528.29,8528.29,2.7,8525.59,USD,USD,USD,1.0,Pending
+PSP4667727897,AutoNationUS,2025-06-08,SNo-1004-9267,AutoNation Honda Phoenix,MID1004,Services,Non-Warranty,Card,MOTO,visa,5234.01,5234.01,2.01,5232.0,USD,USD,USD,1.0,Pending
+PSP3999674124,AutoNationUS,2025-06-23,SWa-1004-6630,AutoNation Honda Phoenix,MID1004,Services,Warranty,Card,MOTO,amex,5136.92,5136.92,1.29,5135.63,USD,USD,USD,1.0,Refunded
+PSP8092367564,AutoNationUS,2025-06-13,SWa-1002-6506,AutoNation Toyota Austin,MID1002,Services,Warranty,Card,POS,amex,2311.55,2311.55,1.57,2309.98,USD,USD,USD,1.0,Refunded
+PSP2052262166,AutoNationUS,2025-06-10,SNe-1005-6388,AutoNation BMW Seattle,MID1005,Sales,New Cars,Card,POS,amex,8648.19,8648.19,2.31,8645.88,USD,USD,USD,1.0,Settled
+PSP7164727034,AutoNationUS,2025-06-13,SNe-1004-2565,AutoNation Honda Phoenix,MID1004,Sales,New Cars,Card,MOTO,mc,5811.14,5811.14,2.39,5808.75,USD,USD,USD,1.0,Refunded
+PSP2415766451,AutoNationUS,2025-06-29,PRe-1002-1165,AutoNation Toyota Austin,MID1002,Parts,Revolution Parts,Card,MOTO,visa,4250.41,4250.41,1.39,4249.02,USD,USD,USD,1.0,Settled
+PSP4514296271,AutoNationUS,2025-06-13,SWa-1005-6500,AutoNation BMW Seattle,MID1005,Services,Warranty,Card,MOTO,amex,8338.49,8338.49,1.03,8337.46,USD,USD,USD,1.0,Settled
+PSP3549217321,AutoNationUS,2025-06-21,SNo-1002-1688,AutoNation Toyota Austin,MID1002,Services,Non-Warranty,Card,POS,visa,3796.41,3796.41,2.36,3794.05,USD,USD,USD,1.0,Refunded
+PSP2009393815,AutoNationUS,2025-06-30,PSi-1002-1145,AutoNation Toyota Austin,MID1002,Parts,Simple Parts,Card,POS,visa,7834.19,7834.19,1.8,7832.39,USD,USD,USD,1.0,Refunded
+PSP5906040562,AutoNationUS,2025-07-02,SNo-1001-2336,AutoNation Ford Miami,MID1001,Services,Non-Warranty,Card,MOTO,discover,2392.65,2392.65,2.84,2389.81,USD,USD,USD,1.0,Settled
+PSP5570657413,AutoNationUS,2025-06-05,PRe-1001-8443,AutoNation Ford Miami,MID1001,Parts,Revolution Parts,Card,POS,visa,582.47,582.47,1.23,581.24,USD,USD,USD,1.0,Pending
+PSP2792005716,AutoNationUS,2025-06-07,PRe-1001-4541,AutoNation Ford Miami,MID1001,Parts,Revolution Parts,Card,POS,amex,7471.08,7471.08,2.31,7468.77,USD,USD,USD,1.0,Settled
+PSP6869794964,AutoNationUS,2025-06-11,PRe-1005-9622,AutoNation BMW Seattle,MID1005,Parts,Revolution Parts,Card,POS,mc,3416.37,3416.37,2.29,3414.08,USD,USD,USD,1.0,Settled
+PSP9137971266,AutoNationUS,2025-06-27,PSi-1005-2686,AutoNation BMW Seattle,MID1005,Parts,Simple Parts,Card,POS,visa,840.08,840.08,3.2,836.88,USD,USD,USD,1.0,Pending
+PSP7855755797,AutoNationUS,2025-06-06,SNo-1004-1470,AutoNation Honda Phoenix,MID1004,Services,Non-Warranty,Card,MOTO,discover,7771.89,7771.89,3.16,7768.73,USD,USD,USD,1.0,Refunded
+PSP4549772893,AutoNationUS,2025-06-19,PSi-1001-8560,AutoNation Ford Miami,MID1001,Parts,Simple Parts,Card,MOTO,discover,7585.53,7585.53,3.38,7582.15,USD,USD,USD,1.0,Refunded
+PSP4571820345,AutoNationUS,2025-06-28,PSi-1001-9680,AutoNation Ford Miami,MID1001,Parts,Simple Parts,Card,MOTO,discover,5178.71,5178.71,3.16,5175.55,USD,USD,USD,1.0,Pending
+PSP2325495568,AutoNationUS,2025-06-27,SNo-1003-4521,AutoNation Mercedes Dallas,MID1003,Services,Non-Warranty,Card,POS,mc,5434.84,5434.84,2.82,5432.02,USD,USD,USD,1.0,Pending
+PSP6434806853,AutoNationUS,2025-06-08,SWa-1003-7412,AutoNation Mercedes Dallas,MID1003,Services,Warranty,Card,POS,amex,8905.67,8905.67,2.6,8903.07,USD,USD,USD,1.0,Settled
+PSP1070195116,AutoNationUS,2025-06-26,SNe-1001-3618,AutoNation Ford Miami,MID1001,Sales,New Cars,Card,POS,amex,9917.68,9917.68,2.55,9915.13,USD,USD,USD,1.0,Refunded
+PSP6828297511,AutoNationUS,2025-07-03,SWa-1001-1597,AutoNation Ford Miami,MID1001,Services,Warranty,Card,POS,discover,3418.28,3418.28,2.65,3415.63,USD,USD,USD,1.0,Pending
+PSP5212963685,AutoNationUS,2025-06-04,PRe-1003-5823,AutoNation Mercedes Dallas,MID1003,Parts,Revolution Parts,Card,POS,visa,1627.0,1627.0,2.72,1624.28,USD,USD,USD,1.0,Pending
+PSP4530370034,AutoNationUS,2025-06-28,SNo-1003-7077,AutoNation Mercedes Dallas,MID1003,Services,Non-Warranty,Card,POS,visa,3971.77,3971.77,1.68,3970.09,USD,USD,USD,1.0,Pending
+PSP5471069966,AutoNationUS,2025-06-30,SNe-1004-2454,AutoNation Honda Phoenix,MID1004,Sales,New Cars,Card,POS,amex,7252.09,7252.09,1.77,7250.32,USD,USD,USD,1.0,Refunded
+PSP8979064028,AutoNationUS,2025-06-29,SUs-1003-9463,AutoNation Mercedes Dallas,MID1003,Sales,Used Cars,Card,POS,visa,6538.56,6538.56,2.98,6535.58,USD,USD,USD,1.0,Refunded
+PSP8349852599,AutoNationUS,2025-06-07,SNo-1004-4085,AutoNation Honda Phoenix,MID1004,Services,Non-Warranty,Card,MOTO,amex,3299.39,3299.39,2.05,3297.34,USD,USD,USD,1.0,Refunded
+PSP2612800550,AutoNationUS,2025-06-23,SNo-1005-8468,AutoNation BMW Seattle,MID1005,Services,Non-Warranty,Card,POS,discover,7982.82,7982.82,2.74,7980.08,USD,USD,USD,1.0,Settled
+PSP4246075269,AutoNationUS,2025-07-02,SNo-1004-2140,AutoNation Honda Phoenix,MID1004,Services,Non-Warranty,Card,MOTO,discover,6616.81,6616.81,3.36,6613.45,USD,USD,USD,1.0,Pending
+PSP8130882530,AutoNationUS,2025-06-13,SNe-1003-2485,AutoNation Mercedes Dallas,MID1003,Sales,New Cars,Card,POS,mc,4836.02,4836.02,1.26,4834.76,USD,USD,USD,1.0,Settled
+PSP4821656768,AutoNationUS,2025-06-20,SWa-1002-5718,AutoNation Toyota Austin,MID1002,Services,Warranty,Card,POS,visa,7425.14,7425.14,2.38,7422.76,USD,USD,USD,1.0,Refunded
+PSP3404924564,AutoNationUS,2025-06-28,PRe-1003-8217,AutoNation Mercedes Dallas,MID1003,Parts,Revolution Parts,Card,MOTO,amex,1506.5,1506.5,2.86,1503.64,USD,USD,USD,1.0,Pending
+PSP7260097620,AutoNationUS,2025-06-06,SWa-1003-9361,AutoNation Mercedes Dallas,MID1003,Services,Warranty,Card,MOTO,mc,331.18,331.18,2.1,329.08,USD,USD,USD,1.0,Settled
+PSP2875546273,AutoNationUS,2025-06-21,SNo-1004-9759,AutoNation Honda Phoenix,MID1004,Services,Non-Warranty,Card,MOTO,visa,7987.71,7987.71,1.34,7986.37,USD,USD,USD,1.0,Refunded
+PSP2048478467,AutoNationUS,2025-06-25,SUs-1004-8690,AutoNation Honda Phoenix,MID1004,Sales,Used Cars,Card,MOTO,amex,5581.11,5581.11,2.23,5578.88,USD,USD,USD,1.0,Refunded
+PSP2304628255,AutoNationUS,2025-07-01,SWa-1002-9959,AutoNation Toyota Austin,MID1002,Services,Warranty,Card,POS,amex,6205.65,6205.65,1.19,6204.46,USD,USD,USD,1.0,Refunded
+PSP5876070369,AutoNationUS,2025-06-10,PRe-1004-4120,AutoNation Honda Phoenix,MID1004,Parts,Revolution Parts,Card,MOTO,amex,4870.39,4870.39,1.83,4868.56,USD,USD,USD,1.0,Settled
+PSP3317614286,AutoNationUS,2025-06-14,SUs-1005-2193,AutoNation BMW Seattle,MID1005,Sales,Used Cars,Card,MOTO,mc,3624.8,3624.8,2.0,3622.8,USD,USD,USD,1.0,Settled
+PSP5166880006,AutoNationUS,2025-06-20,SNe-1003-5989,AutoNation Mercedes Dallas,MID1003,Sales,New Cars,Card,POS,discover,3158.28,3158.28,2.01,3156.27,USD,USD,USD,1.0,Pending
+PSP4816891581,AutoNationUS,2025-06-09,PRe-1001-4293,AutoNation Ford Miami,MID1001,Parts,Revolution Parts,Card,MOTO,discover,3355.93,3355.93,2.9,3353.03,USD,USD,USD,1.0,Pending
+PSP8715444914,AutoNationUS,2025-06-26,PSi-1004-9878,AutoNation Honda Phoenix,MID1004,Parts,Simple Parts,Card,POS,amex,6444.07,6444.07,2.36,6441.71,USD,USD,USD,1.0,Refunded
+PSP6108150910,AutoNationUS,2025-06-22,SUs-1003-6727,AutoNation Mercedes Dallas,MID1003,Sales,Used Cars,Card,POS,mc,5668.75,5668.75,1.53,5667.22,USD,USD,USD,1.0,Pending
+PSP6958630577,AutoNationUS,2025-06-11,SNo-1001-5692,AutoNation Ford Miami,MID1001,Services,Non-Warranty,Card,MOTO,mc,5345.52,5345.52,1.89,5343.63,USD,USD,USD,1.0,Pending
+PSP5427061206,AutoNationUS,2025-06-21,SWa-1002-3536,AutoNation Toyota Austin,MID1002,Services,Warranty,Card,MOTO,visa,5862.21,5862.21,1.33,5860.88,USD,USD,USD,1.0,Pending
+PSP5514613817,AutoNationUS,2025-07-01,SWa-1003-6627,AutoNation Mercedes Dallas,MID1003,Services,Warranty,Card,MOTO,visa,1921.82,1921.82,1.41,1920.41,USD,USD,USD,1.0,Pending
+PSP3018077005,AutoNationUS,2025-06-13,SUs-1002-9720,AutoNation Toyota Austin,MID1002,Sales,Used Cars,Card,MOTO,discover,7739.38,7739.38,2.47,7736.91,USD,USD,USD,1.0,Refunded
+PSP6143348294,AutoNationUS,2025-06-07,PRe-1002-1028,AutoNation Toyota Austin,MID1002,Parts,Revolution Parts,Card,MOTO,mc,3114.24,3114.24,1.77,3112.47,USD,USD,USD,1.0,Pending
+PSP5101733991,AutoNationUS,2025-06-30,SWa-1005-3319,AutoNation BMW Seattle,MID1005,Services,Warranty,Card,MOTO,discover,578.86,578.86,2.83,576.03,USD,USD,USD,1.0,Settled
+PSP8243688401,AutoNationUS,2025-06-27,SWa-1002-5972,AutoNation Toyota Austin,MID1002,Services,Warranty,Card,MOTO,visa,5287.06,5287.06,1.72,5285.34,USD,USD,USD,1.0,Pending
+PSP7020179602,AutoNationUS,2025-07-02,SWa-1002-4718,AutoNation Toyota Austin,MID1002,Services,Warranty,Card,POS,amex,7413.33,7413.33,2.23,7411.1,USD,USD,USD,1.0,Settled
+PSP4888607185,AutoNationUS,2025-06-21,SWa-1001-8964,AutoNation Ford Miami,MID1001,Services,Warranty,Card,MOTO,discover,5827.53,5827.53,2.62,5824.91,USD,USD,USD,1.0,Settled
+PSP8477330504,AutoNationUS,2025-06-18,SNo-1003-5489,AutoNation Mercedes Dallas,MID1003,Services,Non-Warranty,Card,MOTO,visa,6074.52,6074.52,2.5,6072.02,USD,USD,USD,1.0,Refunded
+PSP8575005118,AutoNationUS,2025-07-03,SNe-1003-7210,AutoNation Mercedes Dallas,MID1003,Sales,New Cars,Card,POS,mc,3129.11,3129.11,3.19,3125.92,USD,USD,USD,1.0,Pending
+PSP8930257377,AutoNationUS,2025-06-04,PRe-1001-9761,AutoNation Ford Miami,MID1001,Parts,Revolution Parts,Card,MOTO,mc,2737.32,2737.32,2.83,2734.49,USD,USD,USD,1.0,Pending
+PSP4093417183,AutoNationUS,2025-06-17,SNe-1004-6761,AutoNation Honda Phoenix,MID1004,Sales,New Cars,Card,POS,visa,6198.58,6198.58,2.73,6195.85,USD,USD,USD,1.0,Pending
+PSP4038347026,AutoNationUS,2025-06-07,SNe-1005-4032,AutoNation BMW Seattle,MID1005,Sales,New Cars,Card,POS,mc,450.07,450.07,2.13,447.94,USD,USD,USD,1.0,Pending
+PSP9285359909,AutoNationUS,2025-06-12,SUs-1005-2002,AutoNation BMW Seattle,MID1005,Sales,Used Cars,Card,POS,discover,5126.15,5126.15,1.55,5124.6,USD,USD,USD,1.0,Pending
+PSP9280963082,AutoNationUS,2025-06-22,SNe-1003-5565,AutoNation Mercedes Dallas,MID1003,Sales,New Cars,Card,MOTO,amex,9651.57,9651.57,2.38,9649.19,USD,USD,USD,1.0,Refunded
+PSP5885714522,AutoNationUS,2025-06-05,PSi-1004-8769,AutoNation Honda Phoenix,MID1004,Parts,Simple Parts,Card,MOTO,mc,2466.1,2466.1,2.86,2463.24,USD,USD,USD,1.0,Refunded
+PSP4342477599,AutoNationUS,2025-06-12,SUs-1002-8126,AutoNation Toyota Austin,MID1002,Sales,Used Cars,Card,MOTO,discover,6842.56,6842.56,1.03,6841.53,USD,USD,USD,1.0,Refunded
+PSP2452058832,AutoNationUS,2025-06-19,SUs-1001-4864,AutoNation Ford Miami,MID1001,Sales,Used Cars,Card,MOTO,amex,8407.95,8407.95,1.61,8406.34,USD,USD,USD,1.0,Settled
+PSP7091721290,AutoNationUS,2025-07-04,SWa-1001-6762,AutoNation Ford Miami,MID1001,Services,Warranty,Card,POS,mc,6419.76,6419.76,1.11,6418.65,USD,USD,USD,1.0,Pending
+PSP8700069318,AutoNationUS,2025-06-14,SUs-1002-6669,AutoNation Toyota Austin,MID1002,Sales,Used Cars,Card,MOTO,visa,4698.78,4698.78,3.02,4695.76,USD,USD,USD,1.0,Pending
+PSP4860870793,AutoNationUS,2025-06-11,SNo-1004-1753,AutoNation Honda Phoenix,MID1004,Services,Non-Warranty,Card,MOTO,amex,7463.83,7463.83,2.98,7460.85,USD,USD,USD,1.0,Pending
+PSP4224115941,AutoNationUS,2025-06-19,PRe-1002-7716,AutoNation Toyota Austin,MID1002,Parts,Revolution Parts,Card,MOTO,discover,5400.36,5400.36,2.72,5397.64,USD,USD,USD,1.0,Pending
+PSP9559856059,AutoNationUS,2025-06-26,PSi-1003-8675,AutoNation Mercedes Dallas,MID1003,Parts,Simple Parts,Card,POS,mc,4001.62,4001.62,1.58,4000.04,USD,USD,USD,1.0,Pending
+PSP8391717237,AutoNationUS,2025-07-03,PRe-1002-6388,AutoNation Toyota Austin,MID1002,Parts,Revolution Parts,Card,POS,discover,5933.8,5933.8,1.99,5931.81,USD,USD,USD,1.0,Pending
+PSP6985790092,AutoNationUS,2025-06-15,SNe-1003-7209,AutoNation Mercedes Dallas,MID1003,Sales,New Cars,Card,POS,discover,7481.08,7481.08,2.55,7478.53,USD,USD,USD,1.0,Settled
+PSP5972596305,AutoNationUS,2025-06-29,SWa-1005-9780,AutoNation BMW Seattle,MID1005,Services,Warranty,Card,MOTO,mc,8582.13,8582.13,1.46,8580.67,USD,USD,USD,1.0,Pending
+PSP8503123303,AutoNationUS,2025-06-13,PRe-1003-7672,AutoNation Mercedes Dallas,MID1003,Parts,Revolution Parts,Card,MOTO,amex,3549.34,3549.34,2.05,3547.29,USD,USD,USD,1.0,Settled
+PSP9376105800,AutoNationUS,2025-06-25,PSi-1002-8843,AutoNation Toyota Austin,MID1002,Parts,Simple Parts,Card,MOTO,visa,2087.98,2087.98,2.86,2085.12,USD,USD,USD,1.0,Refunded
+PSP1192634075,AutoNationUS,2025-06-16,SNe-1001-3666,AutoNation Ford Miami,MID1001,Sales,New Cars,Card,POS,discover,6344.9,6344.9,3.23,6341.67,USD,USD,USD,1.0,Refunded
+PSP1570368714,AutoNationUS,2025-06-15,SWa-1003-9757,AutoNation Mercedes Dallas,MID1003,Services,Warranty,Card,POS,mc,1166.12,1166.12,3.1,1163.02,USD,USD,USD,1.0,Pending
+PSP3174491337,AutoNationUS,2025-07-04,SWa-1003-3435,AutoNation Mercedes Dallas,MID1003,Services,Warranty,Card,MOTO,visa,9617.6,9617.6,1.56,9616.04,USD,USD,USD,1.0,Settled
+PSP5825740586,AutoNationUS,2025-06-22,PSi-1005-9176,AutoNation BMW Seattle,MID1005,Parts,Simple Parts,Card,POS,discover,4877.56,4877.56,1.44,4876.12,USD,USD,USD,1.0,Refunded
+PSP7048080803,AutoNationUS,2025-06-25,SNo-1001-7847,AutoNation Ford Miami,MID1001,Services,Non-Warranty,Card,POS,mc,6011.24,6011.24,2.94,6008.3,USD,USD,USD,1.0,Refunded
+PSP6932130133,AutoNationUS,2025-07-02,SUs-1005-2176,AutoNation BMW Seattle,MID1005,Sales,Used Cars,Card,POS,visa,9000.21,9000.21,1.4,8998.81,USD,USD,USD,1.0,Pending
+PSP6989024865,AutoNationUS,2025-06-15,PSi-1004-6230,AutoNation Honda Phoenix,MID1004,Parts,Simple Parts,Card,POS,visa,3268.38,3268.38,1.67,3266.71,USD,USD,USD,1.0,Settled
+PSP6151709892,AutoNationUS,2025-07-02,SWa-1005-6785,AutoNation BMW Seattle,MID1005,Services,Warranty,Card,MOTO,discover,7457.02,7457.02,2.26,7454.76,USD,USD,USD,1.0,Settled
+PSP1240576477,AutoNationUS,2025-06-26,PRe-1005-5563,AutoNation BMW Seattle,MID1005,Parts,Revolution Parts,Card,MOTO,visa,4417.29,4417.29,1.69,4415.6,USD,USD,USD,1.0,Pending
+PSP3421393607,AutoNationUS,2025-06-29,SWa-1002-2901,AutoNation Toyota Austin,MID1002,Services,Warranty,Card,MOTO,discover,393.7,393.7,3.4,390.3,USD,USD,USD,1.0,Pending
+PSP3602580928,AutoNationUS,2025-06-09,PRe-1002-5969,AutoNation Toyota Austin,MID1002,Parts,Revolution Parts,Card,POS,visa,6360.05,6360.05,2.99,6357.06,USD,USD,USD,1.0,Settled
+PSP8877709370,AutoNationUS,2025-06-21,SWa-1003-8560,AutoNation Mercedes Dallas,MID1003,Services,Warranty,Card,POS,mc,8602.2,8602.2,1.21,8600.99,USD,USD,USD,1.0,Refunded
+PSP5549652094,AutoNationUS,2025-06-15,SUs-1003-4120,AutoNation Mercedes Dallas,MID1003,Sales,Used Cars,Card,POS,visa,2098.86,2098.86,1.23,2097.63,USD,USD,USD,1.0,Pending
+PSP1069990555,AutoNationUS,2025-06-11,SNo-1003-9459,AutoNation Mercedes Dallas,MID1003,Services,Non-Warranty,Card,MOTO,discover,8772.09,8772.09,1.22,8770.87,USD,USD,USD,1.0,Settled
+PSP6988394576,AutoNationUS,2025-06-06,PRe-1004-7937,AutoNation Honda Phoenix,MID1004,Parts,Revolution Parts,Card,POS,discover,8418.81,8418.81,2.47,8416.34,USD,USD,USD,1.0,Refunded
+PSP5562475658,AutoNationUS,2025-07-03,PRe-1002-4187,AutoNation Toyota Austin,MID1002,Parts,Revolution Parts,Card,MOTO,mc,8825.77,8825.77,3.23,8822.54,USD,USD,USD,1.0,Pending
+PSP3512510656,AutoNationUS,2025-06-17,SUs-1002-1135,AutoNation Toyota Austin,MID1002,Sales,Used Cars,Card,MOTO,visa,2249.54,2249.54,1.59,2247.95,USD,USD,USD,1.0,Refunded
+PSP9408706231,AutoNationUS,2025-06-30,SNo-1005-7398,AutoNation BMW Seattle,MID1005,Services,Non-Warranty,Card,POS,mc,3706.96,3706.96,1.82,3705.14,USD,USD,USD,1.0,Pending
+PSP2011490519,AutoNationUS,2025-06-16,PRe-1002-1557,AutoNation Toyota Austin,MID1002,Parts,Revolution Parts,Card,POS,discover,2537.74,2537.74,2.78,2534.96,USD,USD,USD,1.0,Pending
+PSP5526818177,AutoNationUS,2025-06-14,SNo-1002-8759,AutoNation Toyota Austin,MID1002,Services,Non-Warranty,Card,MOTO,amex,1726.7,1726.7,2.53,1724.17,USD,USD,USD,1.0,Refunded
